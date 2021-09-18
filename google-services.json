@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794798765996",
+    "firebase_url": "https://house-renting-af1f9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "house-renting-af1f9",
+    "storage_bucket": "house-renting-af1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794798765996:android:751f023a1c1f76229dec09",
+        "android_client_info": {
+          "package_name": "ansarker.github.io.houserent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794798765996-5l8cvvdskhjg9dduflnk5tlhg0kohkja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ansarker.github.io.houserent",
+            "certificate_hash": "1c31e91b2be2d6ec217d45e9b34495525b2c3b8f"
+          }
+        },
+        {
+          "client_id": "794798765996-fc7vnak8brfj679r53hi0oiq8d04unfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlOOwW6Aib9yO4Ied-Wm1mlhMubJAMjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794798765996-fc7vnak8brfj679r53hi0oiq8d04unfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
